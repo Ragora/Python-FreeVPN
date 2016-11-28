@@ -1,0 +1,19 @@
+{
+  "SSH":
+  {
+    "host": "localhost",
+    "remoteUser": "aUser",
+    "localUser": "aUser",
+    "port": 22,
+    "remoteRoutingPort": 1337,
+    "remoteCommPort": 11595,
+    "localCommPort": 6969,
+    "localRoutingPort": 7070
+  },
+
+  "general":
+  {
+    "network": "172.24.200.0/24",
+    "server": "172.24.200.1"
+  }
+}
